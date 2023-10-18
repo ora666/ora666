@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ora666 -- retarded Oracle DBA
-- 👀 I’m only two letters away of being an asset. 
+- 👀 I’m only two letters away of being an asset. Obviously.
 - 🌱 I’m currently goofing around with python, Oracle Apex and a tone of OSS.
 - 📫 echo > /dev/null
 
